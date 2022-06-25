@@ -1,1 +1,1 @@
-web: ./build/install/armada-music-app/bin/armada-music-app
+web: ./build/install/com.example.armada-music-app/bin/com.example.armada-music-app
