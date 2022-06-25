@@ -1,0 +1,1 @@
+web: ./build/install/armada-music-app/bin/armada-music-app
